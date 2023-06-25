@@ -51,6 +51,6 @@ Example:
 ## Editing 
 To edit the bookmarks you need to manually edit them in their respective file. It's located in `~/.config/ulauncher-bookmarks/bookmarks.json`
 
-<p align="start" width="400">
- <img src="https://github.com/lighttigerXIV/ulauncher-bookmarks/assets/35658492/81f0d29f-904f-4629-ba82-ae70c6e9e3b7"> 
+<p align="start" >
+ <img width="600" src="https://github.com/lighttigerXIV/ulauncher-bookmarks/assets/35658492/81f0d29f-904f-4629-ba82-ae70c6e9e3b7"> 
 </p>
