@@ -1,0 +1,43 @@
+{
+    "required_api_version": "^2.0.0",
+    "name": "Bookmarks",
+    "description": "An extension that let's you add bookmarks instead of searching for your favorite websites",
+    "developer_name": "lighttigerXIV",
+    "icon": "images/icon-black.svg",
+    "options": {
+        "query_debounce": 0.05
+    },
+    "preferences": [
+        {
+            "id": "keyword",
+            "type": "keyword",
+            "name": "Bookmarks",
+            "description": "",
+            "default_value": "bm"
+        },
+        {
+            "id": "icon",
+            "type": "select",
+            "name": "Icon style",
+            "default_value": "blue",
+            "options": [
+                {"text": "Rosewater", "value": "rosewater"},
+                {"text": "Flamingo", "value": "flamingo"},
+                {"text": "Pink", "value": "pink"},
+                {"text": "Mauve", "value": "mauve"},
+                {"text": "Red", "value": "red"},
+                {"text": "Maroon", "value": "maroon"},
+                {"text": "Peach", "value": "peach"},
+                {"text": "Yellow", "value": "yellow"},
+                {"text": "Green", "value": "green"},
+                {"text": "Teal", "value": "teal"},
+                {"text": "Sky", "value": "sky"},
+                {"text": "Sapphire", "value": "sapphire"},
+                {"text": "Blue", "value": "blue"},
+                {"text": "Lavender", "value": "lavender"},
+                {"text": "Black", "value": "black"},
+                {"text": "White", "value": "white"}
+            ]
+        }
+    ]
+}
